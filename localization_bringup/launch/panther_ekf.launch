@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="robot_localization" type="ekf_localization_node" name="panther_ekf" clear_params="true">
+    <rosparam command="load" file="$(find localization_bringup)/params/panther_ekf_params.yaml" />
+  </node>
+</launch>
