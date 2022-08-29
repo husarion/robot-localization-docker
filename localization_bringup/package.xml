@@ -4,19 +4,10 @@
   <version>1.0.0</version>
   <description>The localization_bringup package</description>
 
-  <!-- One maintainer tag required, multiple allowed, one person per tag -->
-  <!-- Example:  -->
-  <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
-  <maintainer email="nicolas.duc@husarion.com">nicolas.duc</maintainer>
+  <maintainer email="contact@husarion.com">Husarion</maintainer>
 
-  <!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 -->
-  <license>MIT</license>
+  <license>Apache License 2.0</license>
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <!-- The export tag contains other, unspecified, tags -->
-  <export>
-    <!-- Other tools can request additional information be placed here -->
-
-  </export>
 </package>
